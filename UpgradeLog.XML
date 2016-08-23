@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Calendar">
+</Property><Property Name="Solution File" Value="I:\My DropBox\Visual Studio 2008\Projects\calendar\Calendar.sln">
+</Property><Property Name="Date" Value="jueves, 26 de noviembre de 2009">
+</Property><Property Name="Time" Value="7:37">
+</Property></Properties><Event ErrorLevel="0" Project="Calendar" Source="Calendar.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Calendar" Source="Calendar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Calendar.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Calendar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="Calendar.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

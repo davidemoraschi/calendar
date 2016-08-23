@@ -1,0 +1,11 @@
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\bin\Debug\Calendar.exe
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\bin\Debug\Calendar.pdb
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\bin\Debug\Google.GData.AccessControl.dll
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\bin\Debug\Google.GData.Calendar.dll
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\bin\Debug\Google.GData.Client.dll
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\bin\Debug\Google.GData.Extensions.dll
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\obj\Debug\ResolveAssemblyReference.cache
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\obj\Debug\SampleApp.Calendar.resources
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\obj\Debug\Calendar.exe
+C:\Archivos de programa\Google\Google Data API SDK\Sources\Samples\calendar\obj\Debug\Calendar.pdb
